@@ -42,6 +42,4 @@ Experiência com:
 - [LinkedIn](https://www.linkedin.com/in/ricardo-craveiro-26b087257/)
 - Email: ricardocaue1@gmail.com
 
-## 📊 GitHub Stats
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoCraveiro05&show_icons=true&theme=radical)
