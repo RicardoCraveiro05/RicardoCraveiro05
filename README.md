@@ -33,7 +33,7 @@ Experiência com:
 | Customer Churn | Análise Exploratória, Tratamento + Machine Learning | Concluído |
 | Projeto SQL(SSMS) | CTE + Window Functions | Concluído 
 | Dasboard KaizenCars | MOM, YTM | Concluído |
-| Dashboard SugarCane | DAX | Produtividade | KPI Agricolas | Concluído |
+| Dashboard SugarCane | Produtividade, KPI Agricolas | Concluído |
 
 ---
 
