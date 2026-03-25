@@ -1,4 +1,4 @@
-# 👋 Ricardo Caue Craveiro
+# Ricardo Craveiro
 
 **Business Intelligence | Data Analyst | SQL | Python | Power BI**
 
