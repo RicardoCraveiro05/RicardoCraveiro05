@@ -30,6 +30,7 @@ Experiência com:
 
 | Projeto | Foco | Status |
 |----------|--------|---------|
+| Dashboard Logística | KPI logístico, Tratamento + Power Query/Power M | Concluído |
 | Customer Churn | Análise Exploratória, Tratamento + Machine Learning | Concluído |
 | Projeto SQL(SSMS) | CTE + Window Functions | Concluído 
 | Dasboard KaizenCars | MOM, YTM | Concluído |
