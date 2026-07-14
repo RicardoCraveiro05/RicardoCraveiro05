@@ -36,7 +36,6 @@ Curto transformar dado bruto em decisão seja num pipeline de vendas, numa malha
 
 | Projeto | Foco | Status |
 |---|---|---|
-
 | 🚚 Projeto Ecopower - Banco de dados Logistica | Em desenvolvimento 
 | 🎮 LoL Performance Analytics2 | Em desenvolvimento
 | 📍 Dashboard de Expansão Geográfica (Ecopower) | Priorização de cidades por potencial KWp, população e leads | ✅ Concluído |
