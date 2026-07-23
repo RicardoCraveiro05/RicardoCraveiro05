@@ -12,12 +12,12 @@
 
 Atuo como **Performance Analyst** na Ecopower, onde lidero a construção de dashboards estratégicos de vendas e expansão geográfica em Power BI, além de projetos de logística e integração de dados. Também sou fundador da **North Metric**, oferecendo dashboards, automação e marketing de performance para pequenos negócios.
 
-Curto transformar dado bruto em decisão seja num pipeline de vendas, numa malha logística ou até nas minhas próprias partidas de League of Legends 😄.
+Curto transformar dado bruto em decisão seja num pipeline de vendas, numa malha logística ou até nas minhas próprias partidas de League of Legends.
 
 - 🔭 Atualmente construindo um projeto para Logistica 
 - 🌱 Aprofundando estudos em IA aplicada a negócios e Data Analytics (FIAP)
 - 💼 North Metric: BI, automação e tráfego pago para negócios locais
-- ⚡ Setor de energia solar — análise de dados de geração distribuída (ANEEL) para expansão de franquias
+- ⚡ Setor de energia solar: análise de dados de geração distribuída (ANEEL) para expansão de franquias
 ---
 
 ### 🛠️ Stack Principal
