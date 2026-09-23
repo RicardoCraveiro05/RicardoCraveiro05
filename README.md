@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Ricardo Craveiro 👋</h1>
+<h1 align="center">Hi, my name is  Ricardo Craveiro 👋</h1>
 <h3 align="center">Business Intelligence | Data Analyst | SQL • Python • Power BI</h3>
 
 <p align="center">
@@ -8,47 +8,41 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-Atuo como **Performance Analyst** na Ecopower, onde lidero a construção de dashboards estratégicos de vendas e expansão geográfica em Power BI, além de projetos de logística e integração de dados. Também sou fundador da **North Metric**, oferecendo dashboards, automação e marketing de performance para pequenos negócios.
+I work as a Business Analyst, focusing on Business Intelligence, data analysis, metrics, and process automation. I work on turning data into strategic information to support decisions and improve business performance, using tools like Power BI, SQL, Python, and Excel.
 
-Curto transformar dado bruto em decisão seja num pipeline de vendas, numa malha logística ou até nas minhas próprias partidas de League of Legends.
+I'm also the founder of NorthMetric, where I work with digital marketing and paid traffic management, using data to monitor and optimize campaign performance. I analyze metrics like engagement, cost per lead, cost per campaign, conversions, and return on actions, turning numbers into decisions to improve results.
 
-- 🔭 Atualmente construindo um projeto para Logistica 
+I enjoy turning raw data into decisions, whether it's setting up a business metric, automating a process, analyzing an operation, or even figuring out why that League of Legends match went wrong.
+
 - 🌱 Aprofundando estudos em IA aplicada a negócios e Data Analytics (FIAP)
 - 💼 North Metric: BI, automação e tráfego pago para negócios locais
-- ⚡ Setor de energia solar: análise de dados de geração distribuída (ANEEL) para expansão de franquias
----
 
 ### 🛠️ Stack Principal
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
 
 ### 📊 Projetos em Destaque
 
 | Projeto | Foco | Status |
 |---|---|---|
-| 🚚 Projeto Ecopower - Banco de dados Logistica | Em desenvolvimento 
-| 🎮 LoL Performance Analytics2 | Em desenvolvimento
-| 📍 Dashboard de Expansão Geográfica (Ecopower) | Priorização de cidades por potencial KWp, população e leads | ✅ Concluído |
-| 📈 Dashboard de Performance de Vendas (Ecopower) | DAX avançado, HTML Content, ranking regional, forecast | ✅ Concluído |
 | 🚚 Dashboard Logística | KPIs logísticos, tratamento de dados com Power Query/M | ✅ Concluído |
-| 🎮 LoL Performance Analytics | Python + Riot API, scoring próprio, radar chart no Power BI | ✅ Concluído |
-| 📦 Sistema Digital de Comandas (Água Prime) | AppSheet + Google Sheets, GPS, assinatura digital, PDF automático | ✅ Concluído |
-| 🔍 Customer Churn | Análise exploratória + Machine Learning | ✅ Concluído |
-| 🧮 Projeto SQL (SSMS) | CTEs + Window Functions | ✅ Concluído |
-| 🚗 Dashboard KaizenCars | Análise MoM, YTD | ✅ Concluído |
-| 🌾 Dashboard SugarCane | Produtividade e KPIs agrícolas | ✅ Concluído |
 
----
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoCraveiro05&show_icons=true&theme=tokyonight)
+
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-craveiro-26b087257/)
