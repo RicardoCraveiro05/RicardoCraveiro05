@@ -19,18 +19,29 @@ I enjoy turning raw data into decisions, whether it's setting up a business metr
 - 🌱 Aprofundando estudos em IA aplicada a negócios e Data Analytics (FIAP)
 - 💼 North Metric: BI, automação e tráfego pago para negócios locais
 
-### 🛠️ Stack Principal
+### 🛠️ Tech Stack
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+#### Data & BI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,oracle,postgres,mssql,powerbi,excel" />
+</p>
+
+#### Development & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+#### Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
+
+<p align="center">
+  <strong>SQL • DAX • Power Query • Google Sheets</strong>
+</p>
 
 
 ### 📊 Projetos em Destaque
