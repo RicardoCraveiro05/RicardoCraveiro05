@@ -51,7 +51,7 @@ Curto transformar dado bruto em decisão seja num pipeline de vendas, numa malha
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoCraveiro05&show_icons=true)
 ---
 
 ### 📫 Contato
