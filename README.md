@@ -64,11 +64,17 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,vscode,claude" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,powerbi,excel,n8n,supabase," />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 <p align="center">
