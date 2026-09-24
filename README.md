@@ -36,7 +36,10 @@
 
 <br>
 
-<h2>🤝 Connect</h2>
+<p align="center"<h2>🤝 Connect</h2>
+</p>
+
+<br>
 
 <p align="center">
 
