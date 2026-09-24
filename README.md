@@ -95,7 +95,9 @@
 
 </table>
 
-📈 GitHub Stats
+<p align="center"<h1>📈 GitHub Stats
+  </p>
+
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoCraveiro05&theme=dark&hide_border=true"
