@@ -65,6 +65,8 @@
 
 <p align="center">
 
+  <p align="center">
+
   <!-- Devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
@@ -74,8 +76,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Dashboard.svg" width="50"/>
+  <!-- Microsoft Power Platform -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" width="50"/>
+
+</p>
 
 </p>
 
