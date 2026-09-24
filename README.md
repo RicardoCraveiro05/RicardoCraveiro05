@@ -65,7 +65,7 @@
 
 <p align="center">
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python,vscode,supabase,git,github,figma,notion,sublimetext" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,supabase,git,figma,notion,sublimetext" />
 </p>
 
 
