@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Craveiro</h1>
+<h1 align="center">Hi, I'm Ricardo Craveiro</h1>
 
 <h3 align="center">Business Intelligence & Data Analyst</h3>
 
@@ -46,21 +46,17 @@
   <a href="https://www.linkedin.com/in/ricardo-craveiro-26b087257/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:ricardocaue1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
   <a href="https://github.com/RicardoCraveiro05">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-</p>
-
 <br>
 
-<p align="center"<h1>💻 Tech Stack</h2>
+<p align="center"<h2>💻 Tech Stack</h2>
 </p>
 
 <p align="center">
@@ -72,14 +68,10 @@
   <img src="https://skillicons.dev/icons?i=python,vscode,supabase,git,github,figma,notion,sublimetext" />
 </p>
 
-<p align="center">
-  <!-- Oracle - Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
-
 
 <p align="center">
   <strong>
-    SQL • DAX • Power Query • Google Sheets • Star Schema Modeling
+    Power BI • ORACLE • DAX • Power Query • Google Sheets • Star Schema Modeling
   </strong>
 </p>
 
