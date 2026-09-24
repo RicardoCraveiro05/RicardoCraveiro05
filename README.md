@@ -10,7 +10,8 @@
 
 <br>
 
-<h2>🚀 About Me</h2>
+<p align="center"<h1>🚀 About Me</h2>
+</p>
 
 <p>
   Ricardo, here a Business Intelligence & Data Analyst and founder of 
@@ -59,7 +60,7 @@
 
 <br>
 
-<p align="center"<h2>💻 Tech Stack</h2>
+<p align="center"<h1>💻 Tech Stack</h2>
 </p>
 
 <p align="center">
@@ -78,7 +79,7 @@
 
 <br>
 
-<p align="center"<h2>📊 Featured Projects</h2>
+<p align="center"<h1>📊 Featured Projects</h2>
 </p>
 
 <table align="center">
