@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,n8n,supabase,html,css,aws" />
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,n8n,supabase," />
 </p>
 
 <p align="center">
