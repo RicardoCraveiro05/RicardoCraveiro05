@@ -13,7 +13,7 @@
 <h2>🚀 About Me</h2>
 
 <p>
-  Ricardo, here — a Business Intelligence & Data Analyst and founder of 
+  Ricardo, here a Business Intelligence & Data Analyst and founder of 
   <strong>North Metric</strong>, my own BI and marketing consultancy.
 </p>
 
