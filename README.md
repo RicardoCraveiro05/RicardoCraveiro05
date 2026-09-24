@@ -56,10 +56,11 @@
 
 <br>
 
-<h2>💻 Tech Stack</h2>
+<p align="center"<h2>💻 Tech Stack</h2>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,oracle,postgres,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,oracle,postgres,mysql,docker,git,github,vscode,claude" />
 </p>
 
 <p align="center">
