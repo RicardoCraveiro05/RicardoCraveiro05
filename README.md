@@ -43,18 +43,18 @@
 <br>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/ricardo-craveiro-26b087257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:ricardocaue1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://github.com/RicardoCraveiro05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</p>
 
 </p>
 
@@ -67,25 +67,30 @@
 
   <p align="center">
 
-  <!-- Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-
-  <!-- Microsoft Power Platform -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" width="50"/>
-
-</p>
-
+<p align="center">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=python,vscode,supabase,git,github,figma,notion,sublimetext" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <!-- Oracle - Devicon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+
+  <!-- Power BI -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="48"/>
+
+  <!-- Power Automate -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" width="48"/>
+</p>
+
+<p align="center">
+  <strong>
+    SQL • DAX • Power Query • Google Sheets • Star Schema Modeling
+  </strong>
+</p>
+
+</p>
+
 </p>
 
 <p align="center">
