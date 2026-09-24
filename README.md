@@ -96,7 +96,9 @@
 </table>
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RicardoCraveiro05&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoCraveiro05&theme=tokyonight" /> </p> <br>
-<br>
-
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoCraveiro05&theme=dark&hide_border=true"
+  />
+</p>
 <p align="center">
