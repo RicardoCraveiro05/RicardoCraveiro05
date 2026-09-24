@@ -76,22 +76,6 @@
   <!-- Oracle - Devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
 
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="48"/>
-
-  <!-- Power Automate -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" width="48"/>
-</p>
-
-<p align="center">
-  <strong>
-    SQL • DAX • Power Query • Google Sheets • Star Schema Modeling
-  </strong>
-</p>
-
-</p>
-
-</p>
 
 <p align="center">
   <strong>
