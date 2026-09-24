@@ -78,7 +78,8 @@
 
 <br>
 
-<h2>📊 Featured Projects</h2>
+<p align="center"<h2>📊 Featured Projects</h2>
+</p>
 
 <table align="center">
   <tr>
