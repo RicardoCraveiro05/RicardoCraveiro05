@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center"<h1>🚀 About Me</h2>
+<p align="center"<H1>🚀 About Me</h2>
 </p>
 
 <p>
@@ -37,7 +37,7 @@
 
 <br>
 
-<p align="center"<h2>🤝 Connect</h2>
+<p align="center"<H1>🤝 Connect</h2>
 </p>
 
 <br>
@@ -56,7 +56,7 @@
 
 <br>
 
-<p align="center"<h2>💻 Tech Stack</h2>
+<p align="center"<H1>💻 Tech Stack</h2>
 </p>
 
 <p align="center">
