@@ -87,6 +87,12 @@
     <th>Status</th>
   </tr>
 
+ <tr>
+    <td>🏥 <strong>Healtcare</strong></td>
+    <td>Healhcare KPIs, data cleanup with Power Query, Oracle, Dbeaver/M</td>
+    <td>In progress</td>
+  </tr>
+
   <tr>
     <td>🚚 <strong>Logistics Dashboard</strong></td>
     <td>Logistics KPIs, data cleanup with Power Query/M</td>
