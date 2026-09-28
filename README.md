@@ -1,3 +1,7 @@
+<p align="center">
+  🇧🇷 <a href="README.pt-br.md">Português</a> &nbsp;|&nbsp; 🇺🇸 <strong>English</strong>
+</p>
+
 <h1 align="center">Hi, I'm Ricardo Craveiro</h1>
 
 <h3 align="center">Business Intelligence & Data Analyst</h3>
@@ -10,11 +14,10 @@
 
 <br>
 
-<p align="center"<H1>🚀 About Me</h2>
-</p>
+<h2 align="center">🚀 About Me</h2>
 
 <p>
-  Ricardo, here a Business Intelligence & Data Analyst and founder of 
+  Hi, I'm Ricardo, a Business Intelligence & Data Analyst and founder of
   <strong>North Metric</strong>, my own BI and marketing consultancy.
 </p>
 
@@ -26,7 +29,7 @@
 
 <p>
   Currently working with <strong>Power BI, DAX, SQL, Python, and Oracle</strong>,
-  while developing automation solutions with 
+  while developing automation solutions with
   <strong>Power Automate, Apps Script, AppSheet, n8n and Supabase</strong>.
 </p>
 
@@ -37,10 +40,7 @@
 
 <br>
 
-<p align="center"<H1>🤝 Connect</h2>
-</p>
-
-<br>
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardo-craveiro-26b087257/">
@@ -56,29 +56,21 @@
 
 <br>
 
-<p align="center"<H1>💻 Tech Stack</h2>
-</p>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-
-  <p align="center">
-
-<p align="center">
-  <!-- Skill Icons -->
   <img src="https://skillicons.dev/icons?i=python,vscode,supabase,git,figma,notion,sublime" />
 </p>
 
-
 <p align="center">
   <strong>
-    Power BI • ORACLE • DAX • Power Query • Google Sheets • Star Schema Modeling
+    Power BI • Oracle • DAX • Power Query • Google Sheets • Star Schema Modeling
   </strong>
 </p>
 
 <br>
 
-<p align="center"<h1>📊 Featured Projects</h2>
-</p>
+<h2 align="center">📊 Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -86,27 +78,24 @@
     <th>Focus</th>
     <th>Status</th>
   </tr>
-
- <tr>
-    <td>🏥 <strong>Healtcare</strong></td>
-    <td>Healhcare KPIs, data cleanup with Power Query, Oracle, Dbeaver/M</td>
+  <tr>
+    <td>🏥 <strong>Healthcare</strong></td>
+    <td>Healthcare KPIs, data cleanup with Power Query, Oracle, DBeaver/M</td>
     <td>In progress</td>
   </tr>
-
   <tr>
     <td>🚚 <strong>Logistics Dashboard</strong></td>
     <td>Logistics KPIs, data cleanup with Power Query/M</td>
     <td>✅ Completed</td>
   </tr>
-
 </table>
 
-<p align="center"<h1>📈 GitHub Stats
-  </p>
+<br>
+
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoCraveiro05&theme=dark&hide_border=true"
   />
 </p>
-<p align="center">
