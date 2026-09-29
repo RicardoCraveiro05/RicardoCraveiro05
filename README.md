@@ -18,7 +18,7 @@
 
 <p>
   Hi, I'm Ricardo, a Business Intelligence & Data Analyst and founder of
-  <strong>North Metric</strong>, my own BI and marketing consultancy.
+  <strong>NorthMetric</strong>, my own BI and marketing consultancy.
 </p>
 
 <p>
@@ -64,7 +64,7 @@
 
 <p align="center">
   <strong>
-    Power BI • Oracle • DAX • Power Query • Google Sheets • Star Schema Modeling
+    Power BI • SQL • Oracle • DAX • Power Query • Google Sheets • Star Schema Modeling
   </strong>
 </p>
 
@@ -78,17 +78,43 @@
     <th>Focus</th>
     <th>Status</th>
   </tr>
+
   <tr>
-    <td>🏥 <strong>Healthcare</strong></td>
-    <td>Healthcare KPIs, data cleanup with Power Query, Oracle, DBeaver/M</td>
-    <td>In progress</td>
+    <td>🏥 <strong>Healthcare Document Intelligence</strong></td>
+    <td>AI-powered document automation</td>
+    <td>🟡 In Progress</td>
   </tr>
+
   <tr>
-    <td>🚚 <strong>Logistics Dashboard</strong></td>
-    <td>Logistics KPIs, data cleanup with Power Query/M</td>
-    <td>✅ Completed</td>
+    <td>🚚 <strong>Logistics Performance Dashboard</strong></td>
+    <td>Operational & logistics KPIs</td>
+    <td>🟢 Completed</td>
+  </tr>
+
+  <tr>
+    <td>📈 <strong>Sales Performance Analysis</strong></td>
+    <td>Sales performance & KPIs</td>
+    <td>🟢 Completed</td>
+  </tr>
+
+  <tr>
+    <td>🌱 <strong>Sugarcane Production BI</strong></td>
+    <td>Production & operational analytics</td>
+    <td>🟢 Completed</td>
+  </tr>
+
+  <tr>
+    <td>📉 <strong>Customer Churn Analysis</strong></td>
+    <td>Customer behavior & churn</td>
+    <td>🟢 Completed</td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/RicardoCraveiro05?tab=repositories">
+    View all repositories →
+  </a>
+</p>
 
 <br>
 
