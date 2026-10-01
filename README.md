@@ -85,7 +85,6 @@
     <td>Sucessul</td>
   </tr>
 
-
 <p align="center">
   <a href="https://github.com/RicardoCraveiro05?tab=repositories">
     View all repositories →
