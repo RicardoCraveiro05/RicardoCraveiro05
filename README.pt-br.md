@@ -72,27 +72,30 @@
 
 <h2 align="center">📊 Projetos em Destaque</h2>
 
+<h2 align="center">📊 Featured Projects</h2>
+
 <table align="center">
   <tr>
-    <th>Projeto</th>
-    <th>Foco</th>
+    <th>Project</th>
+    <th>Focus</th>
     <th>Status</th>
   </tr>
+
   <tr>
-    <td>🏥 <strong>Saúde (Healthcare)</strong></td>
-    <td>KPIs de saúde, tratamento de dados com Power Query, Oracle, DBeaver/M</td>
-    <td>Em andamento</td>
+    <td>🏥 <strong>N8N - FLOW extract PDF </strong></td>
+    <td>AI-PDF-N8N-Google Sheets-Anthropic</td>
+    <td>Sucessul</td>
   </tr>
-  <tr>
-    <td>🚚 <strong>Dashboard de Logística</strong></td>
-    <td>KPIs de logística, tratamento de dados com Power Query/M</td>
-    <td>✅ Concluído</td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://github.com/RicardoCraveiro05?tab=repositories">
+    View all repositories →
+  </a>
+</p>
 
 <br>
 
-<h2 align="center">📈 Estatísticas do GitHub</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img
