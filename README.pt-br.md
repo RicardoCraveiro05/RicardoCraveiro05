@@ -64,7 +64,7 @@
 
 <p align="center">
   <strong>
-    Power BI • Oracle • DAX • Power Query • Google Sheets • Modelagem Star Schema
+    Power BI • Oracle • DAX • Power Query • Google Sheets • Modelagem Star Schema • Claude
   </strong>
 </p>
 
